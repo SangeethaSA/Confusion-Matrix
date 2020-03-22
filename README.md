@@ -1,7 +1,7 @@
 # Confusion-Matrix
 
 Table that represents performance of binary classification models NOT regression models. 
-Every observation(row) in the testing set is represented in exactly on box. 
+Every observation(row) in the testing set is represented in exactly one matrix / box. 
 
 It is used on the test data for the true/actual values are known. 
 Most important rule is first argument is true values, 
